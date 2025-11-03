@@ -154,7 +154,7 @@ model = load_model('model.h5')
 **Shaheera Sara**
 📍 KL University, Hyderabad
 💼 [GitHub Profile](https://github.com/shaheerasara7604)
-📧 [Your Email Here]
+📧 shaheerasara519@gmail.com
 
 ---
 
